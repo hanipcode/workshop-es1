@@ -1,3 +1,6 @@
+import { perkalian } from "./Matematik";
+console.log(perkalian);
+
 console.log("test another");
 
 function penjumlahan(a, b) {
